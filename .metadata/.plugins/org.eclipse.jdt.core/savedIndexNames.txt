@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+G:\Mi unidad\1DAW3\Programacion\Maquina vending\.metadata\.plugins\org.eclipse.jdt.core
+888086935.index
+1865797976.index
+3794908904.index
